@@ -1,28 +1,40 @@
-# Hi there, I'm Seth Bowman.👋
+# Hi there, I'm **Seth Bowman** 👋  
 
-## About Me
+## 📌 About Me  
 
-I'm a budding programmer currently learning C++. I love exploring new technologies and solving problems through code. My goal is to become proficient in software development and contribute to exciting projects. Ultimately, I aim to work as a full stack developer.
+I'm a **full-stack developer** and **cloud architecture enthusiast** with a strong foundation in **web development, IT support, and data analysis**. I'm currently pursuing an **AWS Certified Solutions Architect - Associate** certification and have completed multiple courses in **cloud computing, JavaScript, Python, and responsive web design**.  
 
-## Skills
+I thrive on **building efficient, scalable applications**, and I'm particularly passionate about **AWS, automation, and backend development**. My experience includes **designing, maintaining, and optimizing websites**, as well as **developing AI/ML-powered chatbot solutions**.  
 
-- **Programming Languages**: C++, CSS, HTML, Python
-- **Tools**: Git, GitHub
+## 🚀 Skills  
 
-## Projects
+- **Programming Languages**: JavaScript, Python, HTML, CSS  
+- **Web Development**: Full-stack development, responsive web design  
+- **Cloud & DevOps**: AWS (S3, Amplify, Lambda, API Gateway), GitHub Actions  
+- **Database Management**: SQL, NoSQL (MongoDB)  
+- **Version Control**: Git, GitHub  
+- **Technical Support & IT**: System troubleshooting, automation, cybersecurity fundamentals  
 
-I'm just starting out, and I'm looking forward to working on my first projects soon. Stay tuned for updates!
+## 💻 Projects  
 
-## Learning Journey
+### 🔗 **Portfolio Website**  
+A personal website showcasing my **skills, projects, and experience**, hosted on **AWS Amplify** with a **GitHub-based CI/CD pipeline** for seamless updates.  
 
-I'm currently using YouTube and the app Mimo to learn C++. I'm focusing on mastering the basics and working on small projects to solidify my understanding.
+### 🔗 **URL Shortener**  
+A **serverless URL shortener** built with **AWS services**, including **Lambda, API Gateway, and DynamoDB**, to provide a **scalable, cloud-native solution**.  
 
-## Connect with Me
+### 🔗 **AI/ML Chatbot for Urban Crush Professional & BOA Beauty Bar**  
+Designed and developed a **chatbot using AWS AI/ML services** to improve customer engagement and automate business processes.  
 
-- **Email**: sbowman836@gmail.com
+## 📚 Learning & Certifications  
 
-Feel free to check out my repositories and leave any feedback or suggestions!
+🎓 **AWS Certified Solutions Architect - Associate (In Progress)**  
+🎓 **IBM Cloud Computing Fundamentals (Certified)**  
+🎓 **FreeCodeCamp Certifications** in **JavaScript, Python, and Web Design**  
+
+## 📬 Connect with Me  
+
+📧 **Email**: sbowman836@gmail.com  
+💼 **GitHub**: [SethBowman-GH](https://github.com/SethBowman-GH)  
 
 ---
-
-Thanks for visiting my GitHub profile!
